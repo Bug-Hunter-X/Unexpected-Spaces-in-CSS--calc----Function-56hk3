@@ -1,0 +1,5 @@
+/* Correct usage of calc() */
+#myElement {
+  width: calc(100% - 20px);
+}
+/* Other styles */
